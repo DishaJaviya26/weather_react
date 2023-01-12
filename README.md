@@ -22,7 +22,7 @@ Here's a list of details that weathercast website provides:
 
 Here's a list of technologies that is used to build weathercast website:
 
-* Front-end : React JS and tailwindcss
+* Front-end : React and tailwindcss
 * Weather API : Weather by API-Ninjas
 
 Weather API Link : https://rapidapi.com/apininjas/api/weather-by-api-ninjas/
