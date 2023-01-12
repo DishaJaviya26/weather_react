@@ -20,7 +20,7 @@ Here's a list of details that weathercast website provides:
 
 ## Technologies
 
-Here's a list of technologies that is used to build weathercast website:
+The following technologies have been implemented in this project:
 
 * Front-end : React and tailwindcss
 * Weather API : Weather by API-Ninjas
