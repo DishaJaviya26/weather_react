@@ -4,6 +4,8 @@ Get the latest weather updates with weathercast, your one-stop destination for a
 
 ![weathercast](https://user-images.githubusercontent.com/74601619/211989557-08f43ad9-4e9b-4e8b-b5a3-2ff58e526642.png)
 
+## Live Demo
+
 Website URL: https://weather-react-one.vercel.app/
 
 ## Details
