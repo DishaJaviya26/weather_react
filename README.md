@@ -1,45 +1,32 @@
-# About Weathercast
+# Weathercast
 
-If you are looking for the latest up-to-date information about the weather, then you should definitely check out our website.
+Get the latest weather updates with weathercast, your one-stop destination for all things weather. Our website provides real-time weather data including current temperature, humidity, wind speed, and more, for locations around the world.
 
-# Getting Started with Create React App
+![weathercast](https://user-images.githubusercontent.com/74601619/211989557-08f43ad9-4e9b-4e8b-b5a3-2ff58e526642.png)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Live Demo
 
-## Available Scripts
+Website URL: https://weather-react-one.vercel.app/
 
-In the project directory, you can run:
+## Details
 
-### `npm start`
+Here's a list of details that weathercast website provides:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+* Temperature
+* Minimum temprature
+* Maximum temprature
+* Humidity
+* Sunrise time
+* Sunset time
+* Wind speed
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Technologies
 
-### `npm test`
+The following technologies have been implemented in this project:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+* Front-end : React and tailwindcss
+* Weather API : Weather by API-Ninjas
 
-### `npm run build`
+Weather API Link : https://rapidapi.com/apininjas/api/weather-by-api-ninjas/
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-# weathercast
