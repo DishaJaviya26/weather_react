@@ -2,7 +2,7 @@
 
 Get the latest weather updates with weathercast, your one-stop destination for all things weather. Our website provides real-time weather data including current temperature, humidity, wind speed, and more, for locations around the world.
 
-![weathercast](https://user-images.githubusercontent.com/74601619/211989557-08f43ad9-4e9b-4e8b-b5a3-2ff58e526642.png)
+![weathercast(new)](https://user-images.githubusercontent.com/74601619/216064877-f30acf9d-1e54-41ad-946f-9832c7bdd53b.png)
 
 ## Live Demo
 
