@@ -1,8 +1,8 @@
 const Header = () => {
   return (
-    <header className="bg-blue-100 text-center shadow-xl ">
-      <h2 className="text-2xl p-4 capitalize font-semibold text-gray-700">
-      Weathercast
+    <header className="bg-weather bg-top text-center shadow-xl ">
+      <h2 className="text-2xl px-4 py-4 capitalize font-semibold text-gray-100">
+        Weathercast
       </h2>
     </header>
   );
